@@ -1,0 +1,164 @@
+.caja1{
+    animation-name: cambiarOpacidad1;
+    Animation-duration: 6s;
+    Animation-delay: 3s:
+    Animation-timming-function: ease-in;
+    Animation-count: infinite;
+    }
+    
+    @keyframes cambiarOpacidad1 {
+    From {opacity: 0%;}
+    To {opacity: 100%;}
+    }
+    
+.caja2{
+    animation-name: cambiarOpacidad2;
+    Animation-duration: 6s;
+    Animation-delay: 3s:
+    Animation-timming-function: ease-in;
+    Animation-count: infinite;
+    }
+    
+    @keyframes cambiarOpacidad2{
+    From {opacity: 100%;}
+    To {opacity: 0%;}
+
+    }
+
+
+ .caja3{
+    animation-name: cambiarOpacidad3;
+    Animation-duration: 6s;
+    Animation-delay: 3s:
+    Animation-timming-function: ease-in;
+    Animation-count: infinite;
+    }
+    
+    @keyframes cambiarOpacidad3 {
+    From {opacity: 0%;}
+    To {opacity: 100%;}
+    }
+    
+.caja4{
+    animation-name: cambiarOpacidad4;
+    Animation-duration: 6s;
+    Animation-delay: 3s:
+    Animation-timming-function: ease-in;
+    Animation-count: infinite;
+    }
+    
+    @keyframes cambiarOpacidad4 {
+    From {opacity: 100%;}
+    To {opacity: 0%;}
+    }
+
+
+    .caja5{
+        animation-name: cambiarOpacidad1;
+        Animation-duration: 6s;
+        Animation-delay: 3s:
+        Animation-timming-function: ease-in;
+        Animation-count: infinite;
+        }
+        
+        @keyframes cambiarOpacidad1 {
+        From {opacity: 0%;}
+        To {opacity: 100%;}
+        }
+        
+    .caja6{
+        animation-name: cambiarOpacidad2;
+        Animation-duration: 6s;
+        Animation-delay: 3s:
+        Animation-timming-function: ease-in;
+        Animation-count: infinite;
+        }
+        
+        @keyframes cambiarOpacidad2{
+        From {opacity: 100%;}
+        To {opacity: 0%;}
+    
+        }
+    
+    
+     .caja7{
+        animation-name: cambiarOpacidad3;
+        Animation-duration: 6s;
+        Animation-delay: 3s:
+        Animation-timming-function: ease-in;
+        Animation-count: infinite;
+        }
+        
+        @keyframes cambiarOpacidad3 {
+        From {opacity: 0%;}
+        To {opacity: 100%;}
+        }
+        
+    .caja8{
+        animation-name: cambiarOpacidad4;
+        Animation-duration: 6s;
+        Animation-delay: 3s:
+        Animation-timming-function: ease-in;
+        Animation-count: infinite;
+        }
+        
+        @keyframes cambiarOpacidad4 {
+        From {opacity: 100%;}
+        To {opacity: 0%;}
+        }
+
+
+         
+     .caja9{
+        animation-name: cambiarOpacidad3;
+        Animation-duration: 6s;
+        Animation-delay: 3s:
+        Animation-timming-function: ease-in;
+        Animation-count: infinite;
+        }
+        
+        @keyframes cambiarOpacidad3 {
+        From {opacity: 0%;}
+        To {opacity: 100%;}
+        }
+        
+    .caja10{
+        animation-name: cambiarOpacidad4;
+        Animation-duration: 6s;
+        Animation-delay: 3s:
+        Animation-timming-function: ease-in;
+        Animation-count: infinite;
+        }
+        
+        @keyframes cambiarOpacidad4 {
+        From {opacity: 100%;}
+        To {opacity: 0%;}
+        }
+
+
+                 
+     .caja11{
+        animation-name: cambiarOpacidad3;
+        Animation-duration: 6s;
+        Animation-delay: 3s:
+        Animation-timming-function: ease-in;
+        Animation-count: infinite;
+        }
+        
+        @keyframes cambiarOpacidad3 {
+        From {opacity: 0%;}
+        To {opacity: 100%;}
+        }
+        
+    .caja12{
+        animation-name: cambiarOpacidad4;
+        Animation-duration: 6s;
+        Animation-delay: 3s:
+        Animation-timming-function: ease-in;
+        Animation-count: infinite;
+        }
+        
+        @keyframes cambiarOpacidad4 {
+        From {opacity: 100%;}
+        To {opacity: 0%;}
+        }

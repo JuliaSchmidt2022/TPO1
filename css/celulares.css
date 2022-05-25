@@ -1,0 +1,9 @@
+#banner{
+    background-image: url('/assets/img/sombrero\ x1baja\ ultimo.jpg');
+    margin-top:10px;
+}
+
+#banner p{
+    color: rgb(0, 0, 0);
+    margin-top:10px;
+}
